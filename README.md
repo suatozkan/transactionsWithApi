@@ -2,7 +2,7 @@
 
 ![Alt text](https://i.ibb.co/qm7NDk0/pexels-photo-684387-1.jpg)
 
-Getting recent transactions via api and confirmation of them with React Native.
+Getting recent transactions via api and confirmation of them with React Native(react-native: 0.59.9).
 
 ## Getting Started
 
